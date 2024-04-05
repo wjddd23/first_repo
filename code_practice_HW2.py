@@ -1,4 +1,5 @@
-﻿# practice 01
+﻿# 2Weeks HW
+# practice 01
 
 print("100") # 100
 print(100) # 100
